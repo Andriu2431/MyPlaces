@@ -2,9 +2,10 @@
 //  MainViewController.swift
 //  MyPlaces
 //
-//  Created by Alexey Efimov on 03/01/2022.
-//  Copyright © 2018 Alexey Efimov. All rights reserved.
+//  Created by Andriu on 31.01.2022.
+//  Copyright © 2022 Alexey Efimov. All rights reserved.
 //
+
 
 import UIKit
 import RealmSwift

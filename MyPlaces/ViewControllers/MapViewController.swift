@@ -1,8 +1,8 @@
 //
-//  MapViewController.swift
+//  MapViewControllerDelegate.swift
 //  MyPlaces
 //
-//  Created by Andriu on 03.02.2022.
+//  Created by Andriu on 31.01.2022.
 //  Copyright © 2022 Alexey Efimov. All rights reserved.
 //
 
