@@ -186,7 +186,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <stackView opaque="NO" contentMode="scaleToFill" placeholderIntrinsicWidth="200" placeholderIntrinsicHeight="110" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="ktK-aU-Krp" customClass="RatingControl" customModule="MyPlaces" customModuleProvider="target">
-                                                    <rect key="frame" x="81" y="48" width="252" height="44"/>
+                                                    <rect key="frame" x="107" y="15" width="200" height="110"/>
                                                 </stackView>
                                             </subviews>
                                             <constraints>

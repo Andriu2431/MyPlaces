@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 55;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -179,7 +179,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1320;
-				ORGANIZATIONNAME = "Alexey Efimov";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					A895AEC421934CA7006ACC1B = {
 						CreatedOnToolsVersion = 10.1;
@@ -188,7 +188,7 @@
 				};
 			};
 			buildConfigurationList = A895AEC021934CA7006ACC1B /* Build configuration list for PBXProject "MyPlaces" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
